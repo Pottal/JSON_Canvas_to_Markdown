@@ -49,3 +49,6 @@ flowchart TD
 `memo`の内容
 ```
 
+## その他
+詳しくは、[下記の記事](https://www.pottal-portal.com/PtPr3/posts/Canvas2MD.html)をご覧ください。
+<https://www.pottal-portal.com/PtPr3/posts/Canvas2MD.html>
