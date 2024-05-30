@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"b95cfe48b88f43e9","type":"text","text":"## Ep1\nあ！野生の何かが現れた！","x":-260,"y":-365,"width":345,"height":145},
+		{"id":"7809479a63e10cb5","type":"text","text":"## Ep3\n**どっかーん！** 大爆発。\n\n![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzdrFDNuIHEB7THdZgIjgMIwx2sC-rKmcmIlpBh3toUXrLOaFLQ1qCzuB1lEs5JLB633AIraV6qYLH6QsuLIE5gIDMnf-eMLaUpXJ8C_xUmbLGhgbhi2jKRULGmv13sBzzlkzHKmg-Kp0/s800/bakuhatsu.png)\n第三種接近遭遇は慎重に。","x":-267,"y":80,"width":360,"height":430},
+		{"id":"2be76db93f324ce7","type":"text","text":"## Start\n始まりはいつだって唐突だ。","x":-780,"y":-362,"width":380,"height":140},
+		{"id":"f20e5560b80cf490","type":"text","text":"## End\nThe END.","x":-780,"y":222,"width":300,"height":147},
+		{"id":"939d32f956ca1e7e","type":"text","text":"## Ep2-A\n化物、許すまじ！\n喰らいやがれ！超必殺！\n飛鳥文化アタック！","x":-269,"y":-120,"width":365,"height":150},
+		{"id":"dab2f9c1e1d450e7","x":-780,"y":-107,"width":420,"height":125,"type":"text","text":"## 飛鳥文化アタック\n最近の若い子には通じないらしい"},
+		{"id":"c43442c1adc2d393","x":160,"y":-107,"width":400,"height":234,"type":"file","file":"Excalidraw/Drawing_UFO.png"}
+	],
+	"edges":[
+		{"id":"f33bceff19d8d072","fromNode":"2be76db93f324ce7","fromSide":"right","toNode":"b95cfe48b88f43e9","toSide":"left"},
+		{"id":"da2238debb45f91f","fromNode":"b95cfe48b88f43e9","fromSide":"bottom","toNode":"939d32f956ca1e7e","toSide":"top"},
+		{"id":"7762630c04e7851f","fromNode":"939d32f956ca1e7e","fromSide":"bottom","toNode":"7809479a63e10cb5","toSide":"top"},
+		{"id":"8566af4b64b0c566","fromNode":"7809479a63e10cb5","fromSide":"left","toNode":"f20e5560b80cf490","toSide":"right"},
+		{"id":"fdba6fe7884efa9b","fromNode":"dab2f9c1e1d450e7","fromSide":"right","toNode":"939d32f956ca1e7e","toSide":"left","toEnd":"none"},
+		{"id":"6f556e6b05f66a41","fromNode":"c43442c1adc2d393","fromSide":"bottom","toNode":"7809479a63e10cb5","toSide":"right","toEnd":"none"}
+	]
+}
