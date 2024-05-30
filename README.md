@@ -1,9 +1,6 @@
 # JSON Canvas to Markdown
 
 ## はじめに
-==⚠This document is written in Japanese. For the English version, please refer to [this document](README_ENG_version.md).⚠==
-
-
 ==⚠このドキュメントは日本語で書かれています。Google翻訳で日本語から日本語に翻訳しないようにしてください⚠==
 
 JSON Canvasと呼ばれるオープンソースの無限キャンバスツールで作成された`.canvas`データをMarkdownファイルに変換するPythonスクリプトを作成しました。
