@@ -18,10 +18,37 @@ JSON Canvasは、[Obsidianが2024年3月にリリースした](https://obsidian.
 
 ```mermaid
 flowchart TD
-    A[Start] --> B[Ep1] -->C[Ep2]-->D[Ep3]-->E[Ep4]-->F[End]
+    A[Start] --> B[Ep1] -->C[Ep2]-->D[Ep3]-->E[End]
     Csub[Ep2_sub1]---C
-    UFO
+    Z[iso]
 ```
+```Markdown
+## Start
+Start!
+## Ep1
+hoge
+## Ep2
+fuga
+
+[^sub_id]
+
+## Ep3
+piyo
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaurYTaUrM5OOaHR_jJACQIGz1jARLQGOZh_OqtnQu8AD9zVbrZ_dcPmmXjMwWGQRHnJ0g1-6evmC0mFhwp_A4kd1uUKeO9lS5wPSKtM34Ey7TWqN8Unhomh3dMm7uVsAb78ry4rcT1gY/s400/animal_mark_hiyoko.png)
+## End
+The end.
+
+---
+## iso
+isolation
+---
+
+[^sub_id]: 
+    ## Ep2_sub
+    Hoge,fuga
+```
+
+
 このスクリプトは上記のような構造を、「メインストーリー」, 「サブストーリー」, 「孤立したノード」の3つに分けて解釈します。
 
 - メインストーリー: 矢印で繋がれた一連のノード
