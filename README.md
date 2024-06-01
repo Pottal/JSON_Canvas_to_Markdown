@@ -45,6 +45,8 @@ flowchart TD
     C-->D2[Ep3-2]-->Y[Ep3-2-2]-->E
 ```
 
+セレクトストーリーにサブストーリーを紐づけることは可能なため、以下のような構造なら対応可能です。
+
 ```mermaid
 flowchart TD
     A[Start] --> B[Ep1] -->C[Ep2]-->D1[Ep3-1]-->E[Ep4]-->F[End]
