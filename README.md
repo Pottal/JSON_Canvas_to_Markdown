@@ -19,7 +19,7 @@ JSON Canvasは、[Obsidianが2024年3月にリリースした](https://obsidian.
 ```mermaid
 flowchart TD
     A[Start] --> B[Ep1] -->C[Ep2]-->D[Ep3]-->E[End]
-    Csub[Ep2_sub1]---C
+    Csub[Ep2_sub]---C
     Z[iso]
 ```
 
