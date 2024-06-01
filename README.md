@@ -22,6 +22,9 @@ flowchart TD
     Csub[Ep2_sub1]---C
     Z[iso]
 ```
+
+![](Canvas2MD_Simple_Canvas.png)
+
 ```Markdown
 ## Start
 Start!
