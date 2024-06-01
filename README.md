@@ -62,7 +62,7 @@ flowchart TD
 
 上記をまとめると以下のようなJSON Canvasに対応できます。
 
-![](Canvas2MD_Sample_Canvas.png)
+![](Canvas2MD_SampleCanvas.png)
 
 ```Markdown
 ## Start
