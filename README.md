@@ -21,8 +21,8 @@ flowchart TD
     A[Start] --> B[Ep1] -->C[Ep2]-->D1[Ep3-1]-->E[Ep4]-->F[End]
     Bsub[Ep1_sub1]---B
     B2[Ep1_sub2]---B
-    D2[Ep3-2]-->E
-    D3[Ep3-3]-->E
+    C-->D2[Ep3-2]-->E
+    C-->D3[Ep3-3]-->E
     D1sub1[Ep3-1_sub]---D1
     D2sub1[Ep3-2_sub]---D2
     UFO
