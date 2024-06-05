@@ -26,29 +26,51 @@ flowchart TD
 ![](Canvas2MD_Simple_Canvas.png)
 
 ```Markdown
+
 ## Start
 Start!
+
+
+
 ## Ep1
 hoge
+
+
+
 ## Ep2
 fuga
 
 [^sub_id]
 
+
+
 ## Ep3
 piyo
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaurYTaUrM5OOaHR_jJACQIGz1jARLQGOZh_OqtnQu8AD9zVbrZ_dcPmmXjMwWGQRHnJ0g1-6evmC0mFhwp_A4kd1uUKeO9lS5wPSKtM34Ey7TWqN8Unhomh3dMm7uVsAb78ry4rcT1gY/s400/animal_mark_hiyoko.png)
+
+
+
 ## End
-The end.
+The End
+
+
+
+
+
+[^sub_id]:
+
+    ## Ep2_sub
+    Hoge, fuga
+    
+
 
 ---
+
 ## iso
 isolation
----
 
-[^sub_id]: 
-    ## Ep2_sub
-    Hoge,fuga
+
+---
 ```
 
 
