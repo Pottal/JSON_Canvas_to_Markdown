@@ -119,75 +119,146 @@ flowchart TD
 このJSON Canvasは以下のように変換されます
 
 ```Markdown
+
 # 芸術は爆発だ
 ## 起
 爆発オチなんてサイテー！
+
+
+
 ## 承
 なんか変なのが来た
+
+
+
 ## 転
 爆発だ! 爆発だ! 爆発だ! 芸術だ!
+
+
+
 ## 結
 芸術は爆発だ。
+
+
+
+
 
 # 第三種接近遭遇
 ## Start
 未知との遭遇
+
+
+
 ## Ep1
 ある日、金太が歩いていると
+
 [^sub_5e849976a7af99e5]
+
+
+
 ## Ep2
 なんだ!これは!
 
+
+
+
 [セレクトストーリー_1にとぶ](#361b7bde8d02c4b2)
+
 [セレクトストーリー_2にとぶ](#6b043c17fec47cfc)
+
 [セレクトストーリー_3にとぶ](#cdf256927d61c0da)
+
+
+
 
 <a id="361b7bde8d02c4b2"></a>
 
 ## Ep3-1
 たたかう
+
 [^sub_3fde2aef8dbfec0c]
+
+
+
+
 
 <a id="6b043c17fec47cfc"></a>
 
 ## Ep3-2
 観察する
+
 [^sub_83b5c1ab9e72d6ff]
+
+
+
+
 
 <a id="cdf256927d61c0da"></a>
 
 ## Ep3-3
 逃げる
 
+
+
+
+
 ## Ep4
 爆発だ! 爆発だ! 爆発だ! 芸術だ!
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzdrFDNuIHEB7THdZgIjgMIwx2sC-rKmcmIlpBh3toUXrLOaFLQ1qCzuB1lEs5JLB633AIraV6qYLH6QsuLIE5gIDMnf-eMLaUpXJ8C_xUmbLGhgbhi2jKRULGmv13sBzzlkzHKmg-Kp0/s800/bakuhatsu.png)
+
+
+
 ## END
 第三種接近遭遇は慎重に。
 
 
+
+
+
 [^sub_5e849976a7af99e5]:
-    ## Ep1_sub
+
+    ## Ep1_sub1
     - 金太は森の中を歩いている
     > ♪ ある日、森の中、くまさんに出会った
     
     ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgitwcpX8aZxM37uW8OOoQBQNQl7izN5PzhXcYW__Ae1Sxr_P6OzIt_oroX_1hy0VurhMpm-uNKEUI5B7atI36LfU12pMHWmfd1VffAYdUYC3bmKjS07glBxqs9bd1TbZawRC6L5hHZ7PFO/s400/yagai_kyoushitsu_casual_walk.png)
     
 
+
+
+[^sub_383bf8b4978836b7]:
+
+    ## Ep1_sub2
+    美しいお姫様は現れない
+
+
+
 [^sub_3fde2aef8dbfec0c]:
-    ## Ep3-1_Sub
+
+    ## Ep3-1_sub
     喰らいやがれ！超必殺！
     飛鳥文化アタック！
 
+
+
 [^sub_361b7bde8d02c4b2]:
+
     ## Ep3-1
     たたかう
 
+
+
 [^sub_83b5c1ab9e72d6ff]:
-    ## Ep3-2-2
+
+    ## Ep3-2_sub
     <◯> <◯>
+
+
 ---
+
 ![](Excalidraw/Drawing_UFO.png)
+
+
 ---
 ```
 
