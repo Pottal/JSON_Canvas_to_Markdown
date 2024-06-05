@@ -256,7 +256,7 @@ flowchart TD
 
 ---
 
-![](Excalidraw/Drawing_UFO.png)
+![](Drawing_UFO.png)
 
 
 ---
