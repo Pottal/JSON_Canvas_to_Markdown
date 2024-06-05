@@ -263,5 +263,5 @@ flowchart TD
 ```
 
 ## その他
-詳しくは、[下記の記事](https://www.pottal-portal.com/PtPr3/posts/Canvas2MD.html)をご覧ください。
-<https://www.pottal-portal.com/PtPr3/posts/Canvas2MD.html>
+詳しくは、[下記の記事](https://www.pottal-portal.com/PtPr3/posts/JSON_Canvas_to_Markdown_py.html)をご覧ください。
+<https://www.pottal-portal.com/PtPr3/posts/Canvas2MD.html](https://www.pottal-portal.com/PtPr3/posts/JSON_Canvas_to_Markdown_py.html>
