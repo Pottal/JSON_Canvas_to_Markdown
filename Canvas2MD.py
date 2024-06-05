@@ -146,8 +146,8 @@ def save_markdown(content, file_path):
         file.write(content)
 
 if __name__ == "__main__":
-    canvas_file = 'PtPr3/PtPr3/Add_files/Canvas2MD/Simple_Canvas.canvas'
-    output_markdown_file = 'PtPr3/PtPr3/Add_files/Canvas2MD/Simple_Canvas.md'
+    canvas_file = 'Simple_Canvas.canvas'
+    output_markdown_file = 'Simple_Canvas.md'
     try:
         canvas_data = load_canvas(canvas_file)
         markdown_content = generate_markdown(canvas_data)
